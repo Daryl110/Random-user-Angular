@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    --blanco: #ffffff;
+    --gris-claro: #e6e6e6;
+    --gris-medio: #999999;
+    --gris-oscuro: #303032;
+    --rojo: #e74c3c;
+    --blanco-hueso: #f7f7f7;
+    --letra-titulo: 'Fjalla One', sans-serif;
+    --letra-contenido-section: 'Open Sans Condensed', sans-serif;
+    --letra-subcontenido-section: 'Rajdhani', sans-serif;;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
